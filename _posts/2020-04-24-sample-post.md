@@ -15,8 +15,6 @@ Cuando hablamos de mantenimiento de una computadora, nos referimos a las medidas
 
 
 
-**Images in the post will look like:**<br>
-![Test Image](/WhatATheme/assets/images/1280x720%20Placeholder.png)
 
 **Definicion**<br>
 
