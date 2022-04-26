@@ -1,7 +1,8 @@
 ---
-title: How to Install and use WhatATheme?
+title: Errores mas comunes en computadoras
 layout: post
-post-image: https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/How%20to%20install%20and%20use%20WhatATheme.png?token=AHMQUEPHRKQFL5FS624RDJ26Z64HK
+post-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtFBZGm3hZ3uK03U_v29wMjZzmG7ULh9zE1Ed0ov3xmK2yNgivfDSZMfmFV_KQzttnaY&usqp=CAU
+
 description: This post will guide you to install WhatATheme on your Jekyll site, follow
   the easy steps to set up WhatATheme.
 tags:
