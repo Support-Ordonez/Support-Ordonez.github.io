@@ -3,71 +3,47 @@ title: Errores mas comunes en computadoras
 layout: post
 post-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtFBZGm3hZ3uK03U_v29wMjZzmG7ULh9zE1Ed0ov3xmK2yNgivfDSZMfmFV_KQzttnaY&usqp=CAU
 
-description: This post will guide you to install WhatATheme on your Jekyll site, follow
-  the easy steps to set up WhatATheme.
+description: 
 tags:
 - how to
 - setup
 - theme
 ---
 
-# What is WhatATheme?
->You’ll find this post in your ***_posts*** directory. Go ahead and edit it and re-build the site to see your changes. >You can rebuild the site in many different ways, but the most common way is to run `bundle exec jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VfPa2c9kwhQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+# ¿Qué es un error informático?
+>Un error de software, error o simplemente fallo (también conocido por el inglés, bug) es un problema en un programa de computador o sistema de software que desencadena un resultado indeseado.
 ---
 
-**WhatATheme** is a customizable Jekyll Portfolio theme which supports blogging. You can use this theme in order to create an elegant, fully responsive portfolio which includes
 
-### Home Page -
-* A Hero section - A section where you can outsource an image which will work as the background for the particular section; it also will include your name and a tagline which can be easily manipulated via the _config.yml file.
-* An About section - A section where you can include your image and a 60 word paragraph which again you can easily manipulate using the _config.yml file.
-* A Contact section - A section where you can include 3 direct ways to contact<br>
-`Ping on Messenger`<br>
-`Send an Email`<br>
-`Tweet on Twitter`<br>
-The contact section will also include 10 different social media buttons for your audience to follow.<br>
-`Facebook`, `Twitter`, `Instagram`, `LinkedIn`, `GitHub`, `YouTube`, `Reddit`, `Behance`, `Dribbble` & `Spotify`.
+### Errores mas comunes
+* El ordenador va muy lento
+Sin duda alguna el principal problema al trabajar con ordenadores, es sentir que nuestro equipo va demasiado lento, hasta el punto de que hace que perdamos mucho tiempo y nos ralentiza enormemente nuestro ritmo de trabajo.
+![image](https://user-images.githubusercontent.com/101680656/165412639-719e77b8-cf1d-4aa4-8e2a-84d7f6802e93.png)
 
-### Blog -
-The blog includes a horizontal card list where the latest articles are fetched from the _posts folder automatically in top-down format. It also includes an instant search box which matches your query from the title, description & content of your post and shows the result as soon as you type.<br>
-The blog card includes
-* Post Title
-* 300 words from the content of the post
-* The publish date
-* The time which will be required to read the post.
+En la mayoría de casos esto ocurre por una sobrecarga de procesos, lo que hace que el equipo necesite de más tiempo para ejecutarse y que en ocasiones incluso se quede congelado, una sensación que con total seguridad habrás experimentado en alguna ocasión y que resulta tremendamente molesta. También puede ser que esta lentitud se deba a que nuestro ordenador haya sido infectado por algún tipo de virus, malware, spyware o troyanos.
+La solución a esta lentitud dependerá del problema, pero por lo general consiste en descargar una versión del sistema operativo más avanzada de unos 64 bits aproximadamente. También puede pasar porque el procesador se sobrecaliente en exceso, y en este caso con limpiarlo o instalando uno nuevo debería ser suficiente.
 
-### Projects -
-The Projects page will include all the projects from the **`projects.yml`** file which is present in the _data folder.<br>
-Projects will be showcased in a card-list format where each card will contain
-* An image related to the project
-* A Project Title
-* A Project Description of about 80 words
+Y por último, echa un vistazo a la memoria de tu disco duro. Si ésta está demasiado llena y no cuenta con mucha capacidad, podría ser otra de las razones por las que funciona muy lentamente. Vacíala con ayuda de un disco duro externo y verás cómo tu equipo vuelve a funcionar correctamente.
 
-### Footer -
-The footer includes
-* A small about the author widget which show the same `Author Image` as mentioned in the about section of the Home page which includes `Name of the Author`, `Around 75 words about the author`.
-* A more link widget which includes a link to any extra page that you've created and a `Subscribe via RSS` link.
-* A Recent posts widget which will include latest 3 posts.
+* Ruidos extraños
+Escuchar ruidos extraños al trabajar con el ordenador también es uno de los problemas más habituales. Qué no cunda el pánico, ya que esto es algo totalmente normal, y por lo general suele ocurrir debido a que el ordenador está demasiado sucio.
+https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2016/08/190128-como-identificar-fallo.jpg?itok=Lnhempwa
+Si los ruidos extraños no cesan, te recomendamos abrir tu ordenador y hacerte con un trapo seco y con un spray de aire comprimido. Limpia todo el interior a fondo y presta una especial atención a la zona del ventilador.
 
-#### Extra Features -
-WhatATheme comes pre installed with
-* **HTML Compressor** - It'll compress all the pages by removing any extra space or blank lines.
-* **Google Analytics** - A web analytics service offered by Google that tracks and reports website traffic. For more information [click here](https://analytics.google.com){:target="blank"}.
-* **Disqus** - A worldwide blog comment hosting service for web sites and online communities that use a networked platform. For more information about Disqus [click here](https://help.disqus.com/en/articles/1717053-what-is-disqus){:target="blank"}
+*Internet va muy lento
+Y aquí llega el mayor de los problemas a día de hoy, que no es otro que Internet vaya demasiado lento. Cuando esto ocurre, siempre pensamos que esto se debe a que nos están robando WiFi, que es muy posible, pero no siempre es esta la razón.
+Para asegurarte de que no te roban WiFi, cambia la contraseña de tu router y acostumbra a ir cambiándola cada cierto tiempo. Si aun así tu problema persiste, es posible que tu tarjeta de red esté estropeada, por lo que tendrías que hacerte con una nueva. Y para salir de dudas, asegúrate de que no dispongas de programas que se encuentren compartiendo archivos vía P2P como los Torrent, ya que estos quitan un importante ancho de banda.
+https://s1.eestatic.com/2020/02/25/omicrono/tecnologia/tecnologia-tutoriales-internet_470215124_146502555_1706x960.jpg
+*No se puede actualizar el sistema operativo
+También es habitual que vayas a actualizar el sistema operativo de tu ordenador pero que por razones desconocidas, te resulte totalmente imposible. La solución a este problema dependerá del tipo de ordenador así como del sistema operativo, pero una de las principales razones es que no se dispone de una buena conexión a Internet, y es que para poder realizar la actualización es indispensable estar conectado a la red.
+http://www.audienciaelectronica.net/wp-content/uploads/2015/07/actualizacion-de-emergencia.jpg
+También puede ser que cuentes con una versión del sistema operativo pirata y que Windows se haya percatado de ello. Si es así, la solución pasa por hacerte con una versión original, ya que de lo contrario será imposible que puedas actualizar tu versión del sistema operativo.
 
-	##### For more information about WhatATheme [click here](https://github.com/thedevslot/WhatATheme/blob/gh-pages/README.md){:target="blank"}.
+*El ordenador se reinicia automáticamente
+Si tu ordenador se reinicia solo, esto se debe bien a que está infectado por algún tipo de virus que provoca un reinicio que se escapa de tu control, o a que hay cualquier tipo de error en tu sistema operativo que demanda el reinicio.
+https://1.bp.blogspot.com/-B2g78IQN7_4/WBgNuQpvfkI/AAAAAAAATjg/GZRIvVuQuA4TW1mLNY0DOQuNfLLuMiYUACLcB/w1200-h630-p-k-no-nu/12-2.png
+*Chrome ha cambiado
+Es muy posible que hayas abierto Google Chrome y que todo haya cambiado de la noche a la mañana. Si esto es así, casi con total seguridad se deberá a que tu ordenador ha sido infectado por un adware, uno de los tipos de virus más comunes hoy en día. El adware habrá infectado tu ordenador a través de la descarga de tu programa, por lo que desinstala ese programa y limpia tu ordenador con algún programa tipo CCleaner o Superantispyware.
 
----
-
-# Installation
-### Step 1 - Setting up WhatATheme
-> * Fork the [repository](https://github.com/thedevslot/WhatATheme/tree/master){:target="blankl"}
-> * Go to repository settings and set Github Pages source as master.
-> * Your new site should be ready at [https://username.github.io/WhatATheme/](#){:target="blank"}
-
-### Step 2 - Making changes via **_config.yml**
-> * Open _config.yml file
-> * Fill the available details accordingly
-> * Commit the changes
+Te hemos contado los principales problemas que afectan a los ordenadores y te hemos dado las soluciones para acabar con ellos. Si aun así en nuestra lista no aparece ese problema que no te permite disfrutar de tu equipo, no dudes en ponerte en contacto con nosotros. Estaremos encantados de ayudarte.
+https://as01.epimg.net/betech/imagenes/2018/04/24/portada/1524588139_340715_1524593118_noticia_normal_recorte1.jpg
