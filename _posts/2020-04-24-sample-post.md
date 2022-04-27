@@ -2,8 +2,7 @@
 title: Mantenimiento de computadoras
 
 post-image: "https://compumarq.com/images/home_1_slider_4.jpg"
-description: A sample post to show how the content will look and how will different
-  headlines, quotes and codes will be represented.
+description: 
 tags:
 - sample
 - post
