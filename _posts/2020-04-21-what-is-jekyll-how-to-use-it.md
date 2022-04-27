@@ -1,7 +1,7 @@
 ---
 title:Mantenimiento Preventivo
 layout: post
-post-image: "https://elcomercio.pe/resizer/Z6LnXj69aHmJCcBnu_aeWkZ2EnI=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/24W3SX6LUJHLTF4JIYCOMOWEPE.webp"
+post-image: "https://buildersoft.com.mx/wp-content/uploads/2016/10/Jocelyn194-1200x350.jpg"
 description: 
 tags:
 - jekyll
