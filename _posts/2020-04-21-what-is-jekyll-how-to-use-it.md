@@ -17,7 +17,7 @@ Cuando hablamos del mantenimiento de nuestro ordenador existen dos posibilidades
 
 ## 9 Consejos para un buen mantenimiento preventivo del ordenador
 
-*Contar con un antivirus actualizado y utilizarlo periódicamente
+* Contar con un antivirus actualizado y utilizarlo periódicamente
 
 Parece un punto obvio, pero en muchas ocasiones pasamos por alto que este tipo de programas puede evitarnos grandes quebraderos de cabeza. No sólo vale con tener un antimalware instalado en nuestra computadora, también debemos tenerlo bien configurado y utilizarlo periódicamente. En este punto hay que tener en cuenta que una mala utilización del antivirus puede acarrear un fallo en el ordenador que nos lleve a un mantenimiento correctivo, que como hemos explicado antes puede ser muy costoso.
 
@@ -54,16 +54,19 @@ Otro punto que a priori puede sonar muy lógico pero que pasamos por alto en muc
 
 ![image](https://user-images.githubusercontent.com/101680656/165652529-4f7e2f89-9b13-4e17-bd01-438eaab2656f.png)
 
-*Actualizar de manera recurrente los drivers
+* Actualizar de manera recurrente los drivers
 
 Es importante descargar los drivers de las páginas oficiales delos fabricantes. Este punto va en consonancia con los puntos 2 y 4 ya que pueden producirse errores fallos a la hora de interactuar con el software y el sistema operativo.
 
 
 * En este último punto nombraremos una serie de actos que no necesitan mucha explicación pero que aún así pueden ayudar mucho a cuidar nuestro ordenador.
 
-°Navegar por la web de forma responsable
+°Navegar por la web de forma responsable.
+
 °Limpiar los datos de navegación cada cierto tiempo.
+
 °Vaciar la papelera de reciclaje.
+
 °Comprobar la temperatura del ordenador.
 
 
