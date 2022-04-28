@@ -1,5 +1,5 @@
 ---
-title:Mantenimiento Preventivo
+title: Mantenimiento Preventivo
 layout: post
 post-image: "https://sotein.com.co/wp-content/uploads/2019/04/Arreglo-de-computadoras-1.jpg"
 description: 
@@ -67,22 +67,4 @@ Es importante descargar los drivers de las páginas oficiales delos fabricantes.
 °Comprobar la temperatura del ordenador.
 
 
-### Creating a new Jekyll site
-**We can create a new Jekyll site just by a simple command:**<br>
-> # `jekyll new my-site`
 
-Jekyll will create a new directory named as `my-site` which is customizable (i.e., you can change the name from `my-site` to anything you want for example `jekyll new brutus`).
-
-### Changing into the Directory
-**We have to go inside the directory:**<br>
-> # `cd my-site`
-
-Again, `my-site` is just a random name which is customizable.
-
-### Building the site and making it available on a local server
-> # `bundle exec jekyll serve`
-
-### Browsing your Jekyll site
-> # Browse to [`http://localhost:4000/`](http://localhost:4000/){:target="_blank"}
-
-###### On encountering any problem while building and serving your Jekyll site you can consider visiting to the [troubleshooting](https://jekyllrb.com/docs/troubleshooting/#configuration-problems){:target="_blank"} page
